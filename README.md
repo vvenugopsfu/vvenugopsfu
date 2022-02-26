@@ -1,4 +1,5 @@
 ### Hi there 👋
+A technical enthusiast with 3 years of experience in the IT Industry
 
 <!--
 **vvenugopsfu/vvenugopsfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
